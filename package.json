@@ -41,7 +41,8 @@
     "unrtf": "^0.2.1",
     "uuid": "^3.0.0",
     "wordcount": "^1.1.1",
-    "yargs": "^5.0.0"
+    "yargs": "^5.0.0",
+    "snyk": "^1.192.4"
   },
   "files": [
     "cache.js",
@@ -81,5 +82,10 @@
   "bugs": {
     "url": "https://github.com/iarna/fetch-fic/issues"
   },
-  "homepage": "https://github.com/iarna/fetch-fic"
+  "homepage": "https://github.com/iarna/fetch-fic",
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
