@@ -29,7 +29,7 @@
     "gauge": "^2.6.0",
     "html-template-tag": "^1.0.0",
     "mississippi": "^1.2.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "node-fetch": "^1.6.0",
     "os-homedir": "^1.0.1",
     "parse5": "^2.2.3",
@@ -41,7 +41,7 @@
     "unrtf": "^0.2.1",
     "uuid": "^3.0.0",
     "wordcount": "^1.1.1",
-    "yargs": "^5.0.0"
+    "yargs": "^13.1.0"
   },
   "files": [
     "cache.js",
