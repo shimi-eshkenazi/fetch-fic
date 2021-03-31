@@ -41,7 +41,7 @@
     "unrtf": "^0.2.1",
     "uuid": "^3.0.0",
     "wordcount": "^1.1.1",
-    "yargs": "^5.0.0"
+    "yargs": "^10.0.0"
   },
   "files": [
     "cache.js",
