@@ -30,7 +30,7 @@
     "html-template-tag": "^1.0.0",
     "mississippi": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "node-fetch": "^1.6.0",
+    "node-fetch": "^2.6.7",
     "os-homedir": "^1.0.1",
     "parse5": "^2.2.3",
     "qw": "^1.0.0",
